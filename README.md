@@ -26,7 +26,7 @@ Operates purely on frame content, making it suitable for analyzing footage where
 
 ## 📂 Add Your Video File
 
-In the script `vidtamperdetect.py`, go to **line 91** and update the file path:
+In the script `forensic_video_analyzer.py`, go to **line 91** and update the file path:
 
 ```python
 video_file = "E:\\dissertation 2\\edit2.mp4"  # Replace with your video file path
